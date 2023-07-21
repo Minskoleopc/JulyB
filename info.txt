@@ -1,0 +1,15 @@
+Step one :- Download and install node
+https://nodejs.org/en/download
+
+Step two = Download and install visual studio code
+https://code.visualstudio.com/download
+
+Step 3: Open visual studio code
+
+Step 4: File >> Open folder >> Desktop >> New Folder
+
+Step 5: Add the file "day1.js" to folder and write console.log("hello")
+
+Step 6: Terminal >> New terminal
+
+Step 7: node day1.js
