@@ -36,7 +36,7 @@ console.log(q/r)
 console.log(q%r)
 
 
-// 7:30 pm &&  8:30am
+// 7:30 pm &&  8:30am ist
 
 
 
