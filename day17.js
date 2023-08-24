@@ -32,7 +32,7 @@ let q3 = numbers.map(function(el){
 console.log(q3)
 
 
-// program 2
+// program 3
 
 let marks = [11,22,34,56,44,55,77,88,12]
 let above50 = []
@@ -67,7 +67,7 @@ let withdrawl = transactions.filter(function(el){
 })
 console.log(withdrawl)
 
-// program 3
+// program 4
 
 let  mks = [11,22,33]
 let total = 0

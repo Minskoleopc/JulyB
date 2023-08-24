@@ -70,7 +70,6 @@ let info2 = {
         father:"shirish deshpande"
     }
 }
-
 let {fullName,parent:{mother,father}} = info2
 console.log(fullName)
 console.log(mother)

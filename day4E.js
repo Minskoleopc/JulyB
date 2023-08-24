@@ -108,6 +108,22 @@ console.log(x3)
 // entity < entity  ======> true or false
 
 
+console.log(typeof '10') // string
+console.log(typeof 10) // number
+
+// < , > , <= , >=
+// != , ==
+// === , !==
+
+
+
+
+
+ 
+
+
+
+
 
 
 

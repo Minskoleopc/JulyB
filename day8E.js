@@ -75,7 +75,6 @@ let flag = true
 // else {
 //     console.log("z is greater")
 // }
-
 switch(flag){
     case x > y && x > z:
         console.log("x is greater")

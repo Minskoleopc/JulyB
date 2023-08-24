@@ -85,10 +85,7 @@ let info2 = {
 // console.log(info2.fullName)
 // console.log(info2.parent.father)
 // console.log(info2.parent.mother)
-
-
 let {fullName,parent:{father,mother}} = info2
-
 console.log(fullName)
 console.log(father)
 console.log(mother)
