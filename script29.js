@@ -87,7 +87,7 @@ students.forEach(function(el){
     el.skills.push("prompt engineering")
 })  
 console.log(students)
-
+console.log("Hello")
 
 
 
